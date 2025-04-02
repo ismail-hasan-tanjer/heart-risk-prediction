@@ -36,9 +36,13 @@ The project follows a structured approach:
 
 ### 3.2 Workflow
 
-![Heart Disease Prediction Workflow](https://github.com/ismail-hasan-tanjer/heart-disease-prediction/blob/main/Workflow.jpg)
+![Heart Disease Prediction Data Bricks](https://github.com/ismail-hasan-tanjer/heart-risk-prediction/blob/main/data%20bricks.jpg)
 
-**Figure 1:** Workflow of the heart disease prediction project
+**Figure 1:** Workflow data bricks of the heart risk prediction
+
+![Heart Disease Prediction Workflow](https://github.com/ismail-hasan-tanjer/heart-risk-prediction/blob/main/workflow---.png)
+
+**Figure 2:** Workflow of the heart disease prediction project
 
 ---
 
@@ -53,9 +57,19 @@ I developed various visualizations using **Power BI** to identify trends and cor
 
 ### Dashboard Overview
 
-![Power BI Dashboard](https://github.com/ismail-hasan-tanjer/heart-disease-prediction/blob/main/Dashboard.jpg)
+![Power BI Dashboard](https://github.com/ismail-hasan-tanjer/heart-risk-prediction/blob/main/Picture%20of%20heart%20%20risk%20analysis_page-0001.jpg)
 
-**Figure 2:** Power BI visualization of heart disease trends
+**Figure 3:** Power BI visualization of heart disease trends
+
+![Correlation Heatmap](https://github.com/ismail-hasan-tanjer/heart-risk-prediction/blob/main/co%20rellation%20heat%20map-.png)
+
+**Figure 4:** Correlation Heatmap
+
+
+![Confusion Matrix](https://github.com/ismail-hasan-tanjer/heart-risk-prediction/blob/main/download%20(1).png)
+
+**Figure 5:** Confusion Matrix
+
 
 ---
 
